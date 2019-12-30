@@ -34,5 +34,3 @@ def list_of_directors(source)
   end
   list
 end
-
-
