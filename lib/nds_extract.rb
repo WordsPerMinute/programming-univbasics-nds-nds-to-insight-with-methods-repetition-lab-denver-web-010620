@@ -48,10 +48,10 @@ def total_gross(source)
   pp list_of_directors(source)
   totalGross = 0
   i = 0 #count directors
-  while i < list_of_directors(source).length do
-      totalGross += directors_totals(source)[list_of_directors[i]]
-      i += 1
-  end
+  #while i < list_of_directors(source).length do
+  #    totalGross += directors_totals(source)[list_of_directors[i]]
+  #    i += 1
+#  end
 
 #  while directorCounter < directors_totals(source).length
 #  while directorCounter < source.length do
