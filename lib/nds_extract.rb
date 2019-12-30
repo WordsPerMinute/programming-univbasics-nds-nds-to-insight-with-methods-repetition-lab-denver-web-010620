@@ -26,6 +26,9 @@ end
 
 def list_of_directors(source)
   # Write this implementation
+  pp source
+  list = []
+  director_index = 0
 end
 
 def total_gross(source)
