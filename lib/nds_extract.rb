@@ -52,7 +52,7 @@ def total_gross(source)
   #    totalGross += directors_totals(source)[list_of_directors[i]]
   #    i += 1
 #  end
-pp list_of_directors(source)
+pp list_of_directors(source)[0]
 #  while directorCounter < directors_totals(source).length
 #  while directorCounter < source.length do
 #      directorName = list_of_directors(source)[directorCounter]
